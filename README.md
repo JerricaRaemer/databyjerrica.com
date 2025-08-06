@@ -1,17 +1,32 @@
-Data By Jerrica
+# Welcome! I’m Jerrica Raemer.
 
-Messy Data -> Cleaned Data -> Organized Data -> *Insights*
+> I'm a data analyst with a passion for turning messy, complicated data into strategies that actually work. Whether it's cleaning up raw datasets, identifying hidden trends, or building smarter workflows, I help organizations make confident, data-driven decisions.
+> 
+> I have a background in mathematics and hands-on experience across operations, bringing both technical expertise and industry context to every project. I’ve supported businesses by streamlining systems, improving accuracy, and uncovering the stories their data was already telling.
 
-I can help you uncover patterns, improve operations, and make smarter decisions for your business.
+## What I Do
+#### Data Cleaning & Preparation
+> I transform your data from messy to ready for analysis.
+>
 
-Hi, I’m Jerrica.
+#### Analysis & Insights
+> I help you ask the right questions and find clear answers.
+> 
 
-I specialize in turning messy operational data into clear business insights. I help organizations like yours bridge the gap between day-to-day data chaos and streamlined, efficient workflows.
+#### Workflow Optimization
+> I build efficient, scalable processes using tools like SQL, Excel, Python, and Tableau.
+> 
 
-My clients see measurable results by implementing small, strategic changes that drive higher efficiency, smarter decisions, and stronger capital growth - all with *less hassle.*
+#### Decision Support
+> I connect the data to your goals so the path forward is obvious, not overwhelming.
+> 
 
-Let’s work together to uncover the insights hidden in your data!
+## Why It Matters
+> You don’t need more data. You need the right tools and perspective to use it.
+> I help teams unlock the value of the data they already have to solve problems, reduce friction, and grow.
+> 
 
-Contact Me Now
-
+### Let’s find out what your data can do!
+> If you're ready to make smarter decisions with less guesswork, Let's Connect!
+> 
 
