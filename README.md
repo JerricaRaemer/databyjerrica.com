@@ -3,6 +3,10 @@
 > I'm a data analyst with a passion for turning messy, complicated data into strategies that actually work. Whether it's cleaning up raw datasets, identifying hidden trends, or building smarter workflows, I help organizations make confident, data-driven decisions.
 > 
 > I have a background in mathematics and hands-on experience across operations, bringing both technical expertise and industry context to every project. I’ve supported businesses by streamlining systems, improving accuracy, and uncovering the stories their data was already telling.
+>
+> I'm not just a data puller, but a strategic thought partner. I work to deeply understand the business problem, focus on what truly matters in the data, and deliver insights with clarity and purpose. Stakeholders can count on me to connect the dots, cut through the noise, and communicate findings without jargon or guesswork.
+>
+> Contact me now
 
 ## What I Do
 #### Data Cleaning & Preparation
