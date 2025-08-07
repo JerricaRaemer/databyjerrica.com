@@ -1,0 +1,99 @@
+# Let's Talk Data
+
+> Data analytics is more than just numbers—it's about uncovering the stories hidden within data. In today's digital age, organizations and individuals alike are relying on data to drive decisions, optimize strategies, and predict future outcomes. From raw data to actionable insights, the power of analytics lies in its ability to transform complexity into clarity. Whether you're new to the field or a seasoned pro, this blog explores the tools, techniques, and trends that shape the ever-evolving world of data analytics.
+
+<div class="gallery">
+  <figure>
+  <a href="good_data_analysts.html" target="_blank">
+  <img src="Good_Data_Analysts.jpg" alt="Why Good Data Analysts Don’t Just Pull the Numbers" />
+</a>
+    <figcaption>Why Good Data Analysts Don’t Just Pull the Numbers</figcaption>
+  </figure>
+  </div>
+
+<div class="gallery">
+  <figure>
+  <a href="benefits.html" target="_blank">
+  <img src="Benefits.jpg" alt="Using Data to Solve Real Problems in Benefits Administration" />
+</a>
+    <figcaption>Using Data to Solve Real Problems in Benefits Administration</figcaption>
+  </figure>
+  </div>
+
+<div class="gallery">
+  <figure>
+  <a href="reducing_errors.html" target="_blank">
+  <img src="Reducing_Errors.jpg" alt="Reducing Participant Errors in Benefits Administration" />
+</a>
+    <figcaption>Reducing Participant Errors in Benefits Administration</figcaption>
+  </figure>
+  </div>
+
+<div class="gallery">
+  <figure>
+  <a href="compliance.html" target="_blank">
+  <img src="Compliance.jpg" alt="Preventing Compliance Gaps with Data-Driven Audits" />
+</a>
+    <figcaption>Preventing Compliance Gaps with Data-Driven Audits</figcaption>
+  </figure>
+  </div>
+
+<div class="gallery">
+  <figure>
+  <a href="story_telling.html" target="_blank">
+  <img src="Story_Telling.jpg" alt="Beyond the Dashboard: Telling a Story with Data" />
+</a>
+    <figcaption>Beyond the Dashboard: Telling a Story with Data</figcaption>
+  </figure>
+  </div>
+
+<div class="gallery">
+  <figure>
+  <a href="root_cause.html" target="_blank">
+  <img src="Root_Cause.jpg" alt="Reducing Support Volume by Fixing the Root Cause" />
+</a>
+    <figcaption>Reducing Support Volume by Fixing the Root Cause</figcaption>
+  </figure>
+  </div>
+
+<div class="gallery">
+  <figure>
+  <a href="sql.html" target="_blank">
+  <img src="SQL.jpg" alt="Beyond the Query: Building Better Databases with SQL" />
+</a>
+    <figcaption>Beyond the Query: Building Better Databases with SQL</figcaption>
+  </figure>
+  </div>
+
+<div class="gallery">
+  <figure>
+  <a href="reducing_errors_2.html" target="_blank">
+  <img src="Reducing_Errors_2.jpg" alt="Reducing Preventable Participant Errors with Data" />
+</a>
+    <figcaption>Reducing Preventable Participant Errors with Data</figcaption>
+  </figure>
+  </div>
+
+<div class="gallery">
+  <figure>
+  <a href="story_telling_2.html" target="_blank">
+  <img src="Story_Telling_2.jpg" alt="Turning Numbers into Narratives: The Art of Data Storytelling" />
+</a>
+    <figcaption>Turning Numbers into Narratives: The Art of Data Storytelling</figcaption>
+  </figure>
+  </div>
+
+
+
+
+
+### Contact Info
+> **Let's chat:** 425-829-0930
+> 
+> **View my projects:** [GitHub](https://github.com/JerricaRaemer)
+> 
+> **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
+>
+> **Send me a project request:** jraemer@outlook.com
+>
+> **See my professional history:** [Resume](https://jerricaraemer.github.io/)
