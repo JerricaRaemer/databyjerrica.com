@@ -4,9 +4,9 @@
 > 
 > I have a background in mathematics and hands-on experience across operations, bringing both technical expertise and industry context to every project. I’ve supported businesses by streamlining systems, improving accuracy, and uncovering the stories their data was already telling.
 >
-> I'm not just a data puller, but a strategic thought partner. I work to deeply understand the business problem, focus on what truly matters in the data, and deliver insights with clarity and purpose. Stakeholders can count on me to connect the dots, cut through the noise, and communicate findings without jargon or guesswork.
+> I aim to be a strategic thought partner, not just a data puller. I work to deeply understand the business problem, focus on what truly matters in the data, and deliver insights with clarity and purpose. Stakeholders can count on me to connect the dots, cut through the noise, and communicate findings without jargon or guesswork.
 >
-> Contact me now
+> [Get in Touch](contact.md) 
 
 ## What I Do
 #### Data Cleaning & Preparation
@@ -30,7 +30,7 @@
 > I help teams unlock the value of the data they already have to solve problems, reduce friction, and grow.
 > 
 
-### Let’s find out what your data can do!
-> If you're ready to make smarter decisions with less guesswork, Let's Connect!
+## Let’s find out what your data can do
+> If you're ready to make smarter business decisions with less guesswork, [Let's Connect](contact.md)!
 > 
 
