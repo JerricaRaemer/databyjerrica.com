@@ -1,13 +1,16 @@
-# 🧠 Using Data to Solve Real Problems in Benefits Administration
+# Using Data to Solve Real Problems in Benefits Administration
+
 ### How a strategic analyst mindset can improve compliance, reduce participant confusion, and streamline internal processes.
 
 ## Introduction: Benefits Data Isn’t Just a Checklist
+
 > Benefits administration is often seen as reactive: answer participant questions, fix system errors, stay compliant. But what if we flipped that? What if data could help us prevent issues instead of just responding to them?
 > 
 > Good data analysis doesn’t just keep you compliant—it helps you uncover patterns, reduce friction, and improve outcomes for everyone involved: participants, HR teams, and administrators.
 > 
 
 ## Problem #1: Participants Are Losing Money
+
 > It’s common to see frequent claims denials, appeals, and forfeitures—especially in pretax benefits. Often, this isn’t due to carelessness. It’s due to confusing plan rules, lack of timely reminders, or misunderstandings about eligibility.
 >
 > How analysis helped:
@@ -19,10 +22,7 @@
 > * I identified patterns in when and why participants were losing money.
 >
 
-> ✅ Visual idea: A line chart showing trends in forfeiture spikes before and after education campaigns.
->
-
-## Outcome:
+#### Outcome:
 > This led to clearer participant education materials, better CS scripts, and a measurable reduction in repeated support cases.
 > 
 
@@ -37,8 +37,15 @@
 > * Prevented broken formatting, misaligned headers, and duplicate records.
 >
 
-## ✅ Visual idea: Screenshot mock-up of an Excel comparison tool with flags for problematic records.
-## Outcome:
+![Excel Visual](../Images/Benefits-Excel_Data.jpg)
+
+<img src="../Images/Benefits-Excel_Data.jpg" alt="A description of the image" width="500"/>
+
+![Benefits Excel Data](../Images/Benefits-Excel-Data.JPG)
+
+![Benefits Excel Data](https://databyjerrica.com/Images/Benefits-Excel-Data.JPG)
+
+#### Outcome:
 > This stopped system crashes, reduced manual cleanup, and helped the client launch OE on time without participant confusion.
 > 
 
