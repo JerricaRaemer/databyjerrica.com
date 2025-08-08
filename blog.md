@@ -4,7 +4,7 @@
 
 <div class="gallery">
   <figure>
-  <a href="good_data_analysts.html" target="_blank">
+  <a href="Blogs\good_data_analysts.md">
   <img src="Images\Good_Data_Analysts.jpg" alt="Why Good Data Analysts Don’t Just Pull the Numbers" />
 </a>
     <figcaption>Why Good Data Analysts Don’t Just Pull the Numbers</figcaption>
@@ -13,7 +13,7 @@
 
 <div class="gallery">
   <figure>
-  <a href="benefits.html" target="_blank">
+  <a href="Blogs\benefits.md">
   <img src="Images\Benefits.jpg" alt="Using Data to Solve Real Problems in Benefits Administration" />
 </a>
     <figcaption>Using Data to Solve Real Problems in Benefits Administration</figcaption>
@@ -22,7 +22,7 @@
 
 <div class="gallery">
   <figure>
-  <a href="reducing_errors.html" target="_blank">
+  <a href="Blogs\reducing_errors.md">
   <img src="Images\Reducing_Errors.jpg" alt="Reducing Participant Errors in Benefits Administration" />
 </a>
     <figcaption>Reducing Participant Errors in Benefits Administration</figcaption>
@@ -31,7 +31,7 @@
 
 <div class="gallery">
   <figure>
-  <a href="compliance.html" target="_blank">
+  <a href="Blogs\compliance.md">
   <img src="Images\Compliance.jpg" alt="Preventing Compliance Gaps with Data-Driven Audits" />
 </a>
     <figcaption>Preventing Compliance Gaps with Data-Driven Audits</figcaption>
@@ -40,7 +40,7 @@
 
 <div class="gallery">
   <figure>
-  <a href="story_telling.html" target="_blank">
+  <a href="Blogs\story_telling.md">
   <img src="Images\Story_Telling.jpg" alt="Beyond the Dashboard: Telling a Story with Data" />
 </a>
     <figcaption>Beyond the Dashboard: Telling a Story with Data</figcaption>
@@ -49,7 +49,7 @@
 
 <div class="gallery">
   <figure>
-  <a href="root_cause.html" target="_blank">
+  <a href="Blogs\root_cause.md">
   <img src="Images\Root_Cause.jpg" alt="Reducing Support Volume by Fixing the Root Cause" />
 </a>
     <figcaption>Reducing Support Volume by Fixing the Root Cause</figcaption>
@@ -58,7 +58,7 @@
 
 <div class="gallery">
   <figure>
-  <a href="sql.html" target="_blank">
+  <a href="Blogs\sql.md">
   <img src="Images\SQL.jpg" alt="Beyond the Query: Building Better Databases with SQL" />
 </a>
     <figcaption>Beyond the Query: Building Better Databases with SQL</figcaption>
@@ -67,7 +67,7 @@
 
 <div class="gallery">
   <figure>
-  <a href="reducing_errors_2.html" target="_blank">
+  <a href="Blogs\reducing_errors_2.md">
   <img src="Images\Reducing_Errors_2.jpg" alt="Reducing Preventable Participant Errors with Data" />
 </a>
     <figcaption>Reducing Preventable Participant Errors with Data</figcaption>
@@ -76,7 +76,7 @@
 
 <div class="gallery">
   <figure>
-  <a href="story_telling_2.html" target="_blank">
+  <a href="Blogs\story_telling_2.md">
   <img src="Images\Story_Telling_2.jpg" alt="Turning Numbers into Narratives: The Art of Data Storytelling" />
 </a>
     <figcaption>Turning Numbers into Narratives: The Art of Data Storytelling</figcaption>
