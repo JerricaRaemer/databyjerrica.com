@@ -1,3 +1,6 @@
+layout: default
+title: Benefits
+
 # Using Data to Solve Real Problems in Benefits Administration
 
 > How a strategic analyst mindset can improve compliance, reduce participant confusion, and streamline internal processes.
