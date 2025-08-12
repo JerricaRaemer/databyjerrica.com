@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <style>
+    nav {
+      background: #222;
+      padding: 1em;
+      font-family: sans-serif;
+    }
+    nav a {
+      color: white;
+      margin-right: 1em;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+    nav .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #333;
+      min-width: 180px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      padding: 0.5em 0;
+    }
+    nav .dropdown-content a {
+      color: white;
+      padding: 8px 16px;
+      display: block;
+      margin: 0;
+    }
+    nav .dropdown-content a:hover {
+      background-color: #555;
+    }
+    nav .dropdown:hover .dropdown-content {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/about' | relative_url }}">About</a>
+    <a href="{{ '/benefits' | relative_url }}">Benefits</a>
+    <a href="{{ '/contact' | relative_url }}">Contact</a>
+    <a href="{{ '/portfolio' | relative_url }}">Portfolio</a>
+
+    <div class="dropdown">
+      <a href="{{ '/blog' | relative_url }}">Blog ▼</a>
+      <div class="dropdown-content">
+        <a href="{{ '/blog/benefits' | relative_url }}">Benefits</a>
+        <a href="{{ '/blog/compliance' | relative_url }}">Compliance</a>
+        <a href="{{ '/blog/good_data_analysts' | relative_url }}">Good Data Analysts</a>
+        <a href="{{ '/blog/reducing_errors' | relative_url }}">Reducing Errors</a>
+        <a href="{{ '/blog/reducing_errors_2' | relative_url }}">Reducing Errors 2</a>
+        <a href="{{ '/blog/root_cause' | relative_url }}">Root Cause</a>
+        <a href="{{ '/blog/sql' | relative_url }}">SQL</a>
+        <a href="{{ '/blog/story_telling' | relative_url }}">Story Telling</a>
+        <a href="{{ '/blog/story_telling_2' | relative_url }}">Story Telling 2</a>
+      </div>
+    </div>
+  </nav>
+
+  <main style="padding: 1em;">
+    {{ content }}
+  </main>
+</body>
+</html>
