@@ -1,3 +1,8 @@
+---
+layout: default
+title: Story Telling
+---
+
 # 🔍 Beyond the Dashboard: Telling a Story with Data
 
 > *Why data storytelling matters more than charts alone*
