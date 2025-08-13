@@ -1,3 +1,8 @@
+---
+layout: default
+title: Reducing Errors 2
+---
+
 # Reducing Preventable Participant Errors with Data
 
 > *How behavioral analysis helped improve benefits education and reduce costly mistakes*
