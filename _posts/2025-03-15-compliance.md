@@ -1,3 +1,8 @@
+---
+layout: default
+title: Compliance
+---
+
 # Preventing Compliance Gaps with Data-Driven Audits
 
 *Why proactive auditing is your best defense against costly benefits errors*
