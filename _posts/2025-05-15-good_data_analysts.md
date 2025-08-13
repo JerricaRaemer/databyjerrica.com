@@ -1,3 +1,8 @@
+---
+layout: default
+title: Good Data Analysts
+---
+
 # Why Good Data Analysts Don’t Just “Pull the Numbers”
 
 > Data storytelling, business impact, and what separates analysis from true insight.
