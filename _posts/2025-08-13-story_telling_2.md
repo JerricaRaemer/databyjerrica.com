@@ -1,3 +1,8 @@
+---
+layout: default
+title: Story Telling 2
+---
+
 # Turning Numbers into Narratives: The Art of Data Storytelling
 
 > *Because dashboards don’t drive decisions. Stories do.*
