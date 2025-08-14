@@ -9,6 +9,7 @@ body {
   margin: 5px;
   width: 300px;
   height: 300px;
+  vertical-align: top;
 }
 .gallery .description{
   padding: 10px;
