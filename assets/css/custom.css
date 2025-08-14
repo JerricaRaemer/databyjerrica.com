@@ -8,6 +8,7 @@ body {
   border: 2px solid hsl(200, 50%, 20%);
   margin: 5px;
   width: 300px;
+  height: 300px;
 }
 .gallery .description{
   padding: 10px;
