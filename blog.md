@@ -67,7 +67,7 @@
 
 <div class="gallery">
   <figure>
-  <a href=_posts\2025-06-15-reducing_errors_2.md">
+  <a href="_posts\2025-06-15-reducing_errors_2.md">
   <img src="Images\Reducing_Errors_2.jpg" alt="Reducing Preventable Participant Errors with Data" />
 </a>
     <figcaption>Reducing Preventable Participant Errors with Data</figcaption>
