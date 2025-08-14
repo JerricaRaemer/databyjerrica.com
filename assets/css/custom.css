@@ -14,7 +14,7 @@ body {
   text-align: center;
 }
 .gallery:hover{
-  border: 2px solid hsl(0, 0%, 40%);
+  border: 2px solid hsl(259, 89%, 30%);
 }
 .gallery img{
   width: 100%;
