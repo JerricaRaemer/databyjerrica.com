@@ -4,23 +4,26 @@ body {
 }
 
 .gallery {
-  display: inline-flex;
-  flex-direction: column;
-  justify-content: space-between; /* image at top, text at bottom */
+  position: relative;
+  display: inline-block;
   width: 300px;
   height: 225px;
-  border: 2px solid hsl(200, 50%, 20%);
   margin: 5px;
-  vertical-align: bottom; /* keeps galleries aligned with each other */
+  border: 2px solid hsl(200, 50%, 20%);
+  vertical-align: bottom;
+  overflow: hidden;
 }
 
 .gallery img {
   width: 100%;
   height: auto;
-  flex-shrink: 0;
 }
 
 .gallery .description {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
   text-align: center;
   padding: 5px;
+  background: rgba(255,255,255,0.7); /* optional readability */
 }
