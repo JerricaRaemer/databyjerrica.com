@@ -4,7 +4,9 @@ body {
 }
 
 .gallery{
-  display: inline-block;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
   border: 2px solid hsl(200, 50%, 20%);
   margin: 5px;
   width: 300px;
@@ -21,4 +23,5 @@ body {
 .gallery img{
   width: 100%;
   height: auto;
+  flex-shrink: 0;
 }
