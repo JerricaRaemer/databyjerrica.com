@@ -1,3 +1,9 @@
+---
+layout: single
+title: Contact Me
+permalink: /contact/
+---
+
 # Let’s Connect
 > Whether you're navigating complex benefits data, looking for a fresh perspective on participant engagement, or just want to talk about data analysis, I'd love to hear from you.
 >
