@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # My Story:
 
 > I got into data because I’ve always been passionate about math, science, and the logic behind how things work.
