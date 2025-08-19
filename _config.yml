@@ -1,7 +1,6 @@
 layout: default
 title: Home
-theme: minimal-mistakes-jekyll
-# remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 
 header_pages:
   - README.md
