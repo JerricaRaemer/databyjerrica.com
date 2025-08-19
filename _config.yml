@@ -10,3 +10,7 @@ header_pages:
   - blog.md
   - contact.md
   
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
