@@ -1,3 +1,9 @@
+---
+layout: single
+title: Benefits/HR Specialist
+permalink: /benefits/
+---
+
 # Approach to Benefits Administration
 
 ### The heart behind my work
