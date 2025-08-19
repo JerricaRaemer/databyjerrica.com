@@ -3,20 +3,6 @@ title: Data By Jerrica
 subtitle: Smarter Benefits, Better Business Decisions
 Description: Data by Jerrica delivers analytics that simplify compliance, streamline workflows, and empower businesses owners with clear and actionable conclusions.
 remote_theme: mmistakes/minimal-mistakes
-
-main:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Benefits"
-    url: /benefits/
-  - title: "Blog"
-    url: /blog/
-  - title: "Contact"
-    url: /contact/
   
 plugins:
   - jekyll-feed
