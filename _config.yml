@@ -2,3 +2,12 @@ layout: default
 title: Home
 theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
+
+header_pages:
+  - README.md
+  - about.md
+  - portfolio.md
+  - benefits.md
+  - blog.md
+  - contact.md
+  
