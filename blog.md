@@ -19,6 +19,16 @@ permalink: /blog/
 
 <div class="gallery">
   <figure>
+  <a href="{{ '/_posts/2025-05-15-good_data_analysts/' | relative_url }}">
+  <img src="{{ '/assets/images/Good_Data_Analysts.jpg' | relative_url }}" alt="Why Good Data Analysts Don’t Just Pull the Numbers" />
+</a>
+    <figcaption>Smarter Analytics</figcaption>
+  </figure>
+  </div>
+  
+
+<div class="gallery">
+  <figure>
   <a href="_posts/2025-04-15-benefits.md">
   <img src="assets/images/Benefits.jpg" alt="Using Data to Solve Real Problems in Benefits Administration" />
 </a>
