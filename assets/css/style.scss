@@ -2,18 +2,53 @@
 ---
 @import "jekyll-theme-cayman";
 
+/* ---------------------
+   Gallery Styles
+--------------------- */
+.gallery {
+  display: inline-block;
+  border: 2px solid hsl(200, 50%, 20%);
+  margin: 5px;
+  width: 300px;
+  height: 225px;
+  vertical-align: bottom;
+}
+
+.gallery .description {
+  padding: 5px;
+  text-align: center;
+}
+
+.gallery:hover {
+  border: 2px solid hsl(198, 100%, 55%);
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+/* ---------------------
+   Navigation Menu Styles
+--------------------- */
 nav {
   background: #222;
   padding: 1em;
   font-family: sans-serif;
 }
+
 nav a {
   color: white;
   margin-right: 1em;
   text-decoration: none;
   font-weight: bold;
 }
-nav .dropdown { position: relative; display: inline-block; }
+
+nav .dropdown {
+  position: relative;
+  display: inline-block;
+}
+
 nav .dropdown-content {
   display: none;
   position: absolute;
@@ -23,32 +58,18 @@ nav .dropdown-content {
   z-index: 1;
   padding: 0.5em 0;
 }
+
 nav .dropdown-content a {
   color: white;
   padding: 8px 16px;
   display: block;
-}
-nav .dropdown-content a:hover { background-color: #555; }
-nav .dropdown:hover .dropdown-content { display: block; }
-
-.gallery{ display: inline-block;
-         border: 2px solid hsl(200, 50%, 20%);
-         margin: 5px;
-         width: 300px;
-         height: 225px;
-         vertical-align: bottom;
-        }
-
-.gallery .description{
-  padding: 5px;
-  text-align: center;
+  margin: 0;
 }
 
-.gallery:hover{
-  border: 2px solid hsl(198, 100%, 55%);
+nav .dropdown-content a:hover {
+  background-color: #555;
 }
 
-.gallery img{
-  width: 100%;
-  height: auto;
+nav .dropdown:hover .dropdown-content {
+  display: block;
 }
