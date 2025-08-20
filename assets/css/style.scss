@@ -5,7 +5,7 @@
 /* ---------------------
    Gallery Styles
 --------------------- */
-.gallery {
+.post-content .gallery {
   display: inline-block;
   border: 2px solid hsl(200, 50%, 20%);
   margin: 5px;
@@ -14,16 +14,16 @@
   vertical-align: bottom;
 }
 
-.gallery .description {
+.post-content .gallery .description {
   padding: 5px;
   text-align: center;
 }
 
-.gallery:hover {
+.post-content .gallery:hover {
   border: 2px solid hsl(198, 100%, 55%);
 }
 
-.gallery img {
+.post-content .gallery img {
   width: 100%;
   height: auto;
 }
