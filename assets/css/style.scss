@@ -2,9 +2,13 @@
 ---
 @import "minimal-mistakes";
 
-/* ---------------------
-   Gallery Styles
---------------------- */
+/* Background Image */
+body {
+  background-image: url("assets/images/background_image.jpg");
+}
+
+
+/* Gallery Styles */
 .post-content .gallery {
   display: inline-block;
   border: 2px solid hsl(200, 50%, 20%);
