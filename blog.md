@@ -10,15 +10,6 @@ permalink: /blog/
 
 <div class="gallery">
   <figure>
-  <a href="_posts/2025-05-15-good_data_analysts.md">
-  <img src="assets/images/Good_Data_Analysts.jpg" alt="Why Good Data Analysts Don’t Just Pull the Numbers" />
-</a>
-    <figcaption>Smarter Analytics</figcaption>
-  </figure>
-  </div>
-
-<div class="gallery">
-  <figure>
   <a href="{{ '/_posts/2025-05-15-good_data_analysts/' | relative_url }}">
   <img src="{{ '/assets/images/Good_Data_Analysts.jpg' | relative_url }}" alt="Why Good Data Analysts Don’t Just Pull the Numbers" />
 </a>
@@ -29,8 +20,8 @@ permalink: /blog/
 
 <div class="gallery">
   <figure>
-  <a href="_posts/2025-04-15-benefits.md">
-  <img src="assets/images/Benefits.jpg" alt="Using Data to Solve Real Problems in Benefits Administration" />
+  <a href="{{ '_posts/2025-04-15-benefits/' | relative_url }}">
+  <img src="{{ 'assets/images/Benefits.jpg' | relative_url }}" alt="Using Data to Solve Real Problems in Benefits Administration" />
 </a>
     <figcaption>Data in Benefits</figcaption>
   </figure>
@@ -38,8 +29,8 @@ permalink: /blog/
 
 <div class="gallery">
   <figure>
-  <a href="_posts/2025-07-31-reducing_errors.md">
-  <img src="assets/images/Reducing_Errors.jpg" alt="Reducing Participant Errors in Benefits Administration" />
+  <a href="{{ '_posts/2025-07-31-reducing_errors/' | relative_url }}">
+  <img src="{{ 'assets/images/Reducing_Errors.jpg' | relative_url }}" alt="Reducing Participant Errors in Benefits Administration" />
 </a>
     <figcaption>Minimizing Errors</figcaption>
   </figure>
@@ -47,8 +38,8 @@ permalink: /blog/
 
 <div class="gallery">
   <figure>
-  <a href="_posts/2025-03-15-compliance.md">
-  <img src="assets/images/Compliance.jpg" alt="Preventing Compliance Gaps with Data-Driven Audits" />
+  <a href="{{ '_posts/2025-03-15-compliance/' | relative_url }}">
+  <img src="{{ 'assets/images/Compliance.jpg' | relative_url }}" alt="Preventing Compliance Gaps with Data-Driven Audits" />
 </a>
     <figcaption>Compliance Made Easy</figcaption>
   </figure>
@@ -56,8 +47,8 @@ permalink: /blog/
 
 <div class="gallery">
   <figure>
-  <a href="_posts/2025-07-15-story_telling.md">
-  <img src="assets/images/Story_Telling.jpg" alt="Beyond the Dashboard: Telling a Story with Data" />
+  <a href="{{ '_posts/2025-07-15-story_telling/ | relative_url }}">
+  <img src="{{ 'assets/images/Story_Telling.jpg' | relative_url }}" alt="Beyond the Dashboard: Telling a Story with Data" />
 </a>
     <figcaption>Story-Driven Data</figcaption>
   </figure>
@@ -65,8 +56,8 @@ permalink: /blog/
 
 <div class="gallery">
   <figure>
-  <a href="_posts/2025-01-15-root_cause.md">
-  <img src="assets/images/Root_Cause.jpg" alt="Reducing Support Volume by Fixing the Root Cause" />
+  <a href="{{ '_posts/2025-01-15-root_cause/' | relative_url }}">
+  <img src="{{ 'assets/images/Root_Cause.jpg' | relative_url }}" alt="Reducing Support Volume by Fixing the Root Cause" />
 </a>
     <figcaption>Root Cause Fixes</figcaption>
   </figure>
@@ -74,8 +65,8 @@ permalink: /blog/
 
 <div class="gallery">
   <figure>
-  <a href="_posts/2025-02-15-sql.md">
-  <img src="assets/images/SQL.jpg" alt="Beyond the Query: Building Better Databases with SQL" />
+  <a href="{{ '_posts/2025-02-15-sql/' | relative_url }}">
+  <img src="{{ 'assets/images/SQL.jpg' | relative_url }}" alt="Beyond the Query: Building Better Databases with SQL" />
 </a>
     <figcaption>SQL Mastery</figcaption>
   </figure>
@@ -83,8 +74,8 @@ permalink: /blog/
 
 <div class="gallery">
   <figure>
-  <a href="_posts/2025-06-15-reducing_errors_2.md">
-  <img src="assets/images/Reducing_Errors_2.jpg" alt="Reducing Preventable Participant Errors with Data" />
+  <a href="{{ '_posts/2025-06-15-reducing_errors_2/' | relative_url }}">
+  <img src="{{ 'assets/images/Reducing_Errors_2.jpg' | relative_url }}" alt="Reducing Preventable Participant Errors with Data" />
 </a>
     <figcaption>Data-Driven Fixes</figcaption>
   </figure>
@@ -92,8 +83,8 @@ permalink: /blog/
 
 <div class="gallery">
   <figure>
-  <a href="_posts/2025-08-13-story_telling_2.md">
-  <img src="assets/images/Story_Telling_2.jpg" alt="Turning Numbers into Narratives: The Art of Data Storytelling" />
+  <a href="{{ '_posts/2025-08-13-story_telling_2/' | relative_url }}">
+  <img src="{{ 'assets/images/Story_Telling_2.jpg' | relative_url }}" alt="Turning Numbers into Narratives: The Art of Data Storytelling" />
 </a>
     <figcaption>Data Narratives</figcaption>
   </figure>
