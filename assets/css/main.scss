@@ -19,6 +19,9 @@ body {
 .page__content .gallery,
 .post .gallery {
   display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  justify-items: center;
   border: 2px solid hsl(200, 75%, 80%);
   margin: 5px;
   width: 350px;
@@ -55,7 +58,7 @@ body {
 
 .post-content .gallery figure figcaption,
 .page__content .gallery figure figcaption {
-  font-family: "Arial", "Helvetica", sans-serif; /* choose any font */
+  font-family: Garamond, Baskerville, "Times New Roman", serif; /* choose any font */
   font-size: 1rem; /* adjust size */
   font-weight: 300; /* makes it bolder */
   color: #333; /* darker color */
