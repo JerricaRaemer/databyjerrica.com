@@ -16,6 +16,26 @@ body {
   padding: 0 1em;
 }
 
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 20px;
+  justify-items: center;
+  margin: 20px auto;
+  max-width: 1100px;
+}
+
+.page__content .gallery,
+.post .gallery {
+  border: 2px solid hsl(200, 75%, 80%);
+  width: 350px;
+  height: 275px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*
 .page__content .gallery,
 .post .gallery {
   display: grid;
@@ -28,6 +48,7 @@ body {
   height: 275px;
   vertical-align: bottom;
 }
+*/
 
 .page__content .gallery .description,
 .post .gallery .description {
