@@ -1,10 +1,8 @@
 ---
 layout: single
-title: Previous Projects
+title: Analytics In Action
 permalink: /portfolio/
 ---
-
-# Portfolio: Analytics In Action
 
 > Welcome to my portfolio, where each example highlights how I combine technical tools with industry expertise to solve business-critical problems. I specialize in benefits and compliance data, but my analytical process is transferable to a wide range of organizational challenges.
 > 
