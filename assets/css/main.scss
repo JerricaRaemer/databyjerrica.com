@@ -44,8 +44,14 @@ body {
   margin: 0 auto;
 }
 
+.post-content .gallery figure,
+.page__content .gallery figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .post-content .gallery figcaption,
 .page__content .gallery figcaption {
-  text-align: center;
   margin-top: 5px;
 }
