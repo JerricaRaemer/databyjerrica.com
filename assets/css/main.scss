@@ -4,9 +4,10 @@
 
 /* Background Image */
 body {
-  background-image: url("assets/images/background_image.jpg");
+  background: url('{{ "/assets/images/background.jpg" | relative_url }}')
+              no-repeat center center fixed;
+  background-size: cover;
 }
-
 
 /* Gallery Styles */
 .post-content .gallery {
