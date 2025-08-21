@@ -1,10 +1,9 @@
 ---
 layout: single
-title: Contact Me
+title: Let’s Connect
 permalink: /contact/
 ---
 
-# Let’s Connect
 > Whether you're navigating complex benefits data, looking for a fresh perspective on participant engagement, or just want to talk about data analysis, I'd love to hear from you.
 >
 > I'm always open to new collaborations, contract work, or permanent opportunities where I can bring both technical skill and industry insight to the table.
