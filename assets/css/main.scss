@@ -53,3 +53,11 @@ body {
   gap: 15px;
 }
 
+.post-content .gallery figcaption,
+.page__content .gallery figcaption {
+  font-family: "Georgia", "Times New Roman", serif; /* choose any font */
+  font-size: 1rem; /* adjust size */
+  font-weight: 600; /* makes it bolder */
+  color: #333; /* darker color */
+  text-align: center; /* ensures it stays centered */
+}
