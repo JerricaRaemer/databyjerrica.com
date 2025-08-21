@@ -1,4 +1,8 @@
-# Data, Done Right
+---
+layout: single
+title: Data Done Right
+permalink: /
+---
 
 I'm a data analyst with a passion for turning messy, complicated data into strategies that actually work. Whether it's cleaning up raw datasets, identifying hidden trends, or building smarter workflows, I help organizations make confident, data-driven decisions.
 
