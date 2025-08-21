@@ -43,3 +43,9 @@ body {
   display: block;
   margin: 0 auto;
 }
+
+.post-content .gallery figcaption,
+.page__content .gallery figcaption {
+  text-align: center;
+  margin-top: 5px;
+}
