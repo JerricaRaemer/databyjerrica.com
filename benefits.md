@@ -1,10 +1,8 @@
 ---
 layout: single
-title: Benefits/HR Specialist
+title: Approach to Benefits Administration
 permalink: /benefits/
 ---
-
-# Approach to Benefits Administration
 
 ### The heart behind my work
 
