@@ -9,8 +9,15 @@ body {
   background-size: cover;
 }
 
-/* Gallery Styles */
-.post-content .gallery {
+.page__content, 
+.post {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+.page__content .gallery,
+.post .gallery {
   display: inline-block;
   border: 2px solid hsl(200, 50%, 20%);
   margin: 5px;
@@ -19,23 +26,19 @@ body {
   vertical-align: bottom;
 }
 
-.post-content .gallery .description {
+.page__content .gallery .description,
+.post .gallery .description {
   padding: 5px;
   text-align: center;
 }
 
-.post-content .gallery:hover {
+.page__content .gallery:hover,
+.post .gallery:hover {
   border: 2px solid hsl(198, 100%, 55%);
 }
 
-.post-content .gallery img {
+.page__content .gallery img,
+.post .gallery img {
   width: 100%;
   height: auto;
-}
-
-/* Post formatting */
-.post-content {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 1em;
 }
