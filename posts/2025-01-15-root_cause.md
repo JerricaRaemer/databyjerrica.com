@@ -1,3 +1,9 @@
+---
+layout: single
+title: Root Cause Fixes
+permalink: /2025-01-15-root_cause/
+---
+
 ## 💡 Reducing Support Volume by Fixing the Root Cause
 
 > How participant education improved service outcomes and saved time
