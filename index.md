@@ -2,6 +2,7 @@
 layout: single
 title: Data Done Right
 header: false
+show_title: false
 permalink: /
 ---
 
