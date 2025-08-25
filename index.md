@@ -4,17 +4,23 @@ title: Data Done Right
 permalink: /
 ---
 
+![Data in Her hands](/assets/images/home_page.jpg){: .inline-hero }
+
 ## Smarter Decisions, Faster
 
-As a data analyst, I help businesses cut costs, anticipate risks, and uncover opportunities that competitors miss. I automate processes so your team can focus on strategy instead of busywork, delivering accurate, compliant, and actionable insights.
+**Cut Costs. Reduce Risk. Find Opportunities.**
 
-I translate complex data into clear findings leaders can act on with confidence. The result? Better decisions, fewer compliance issues, and workflows that scale with your growth.
+Automate workflows. Focus on strategy.
 
-A data analyst is a decision accelerator. I turn your data into cost savings, compliance protection, and competitive advantage.
+**Clear, Actionable Insights**
 
-[Get in Touch](contact.md)
+Complex data → simple decisions. Compliance and accuracy guaranteed.
 
-![Data in Her hands](/assets/images/home_page.jpg){: .inline-hero }
+**Scalable Impact**
+
+Workflows grow with your business. Data drives cost savings, protection, and competitive advantage.
+
+[Let's Chat](contact.md)
 
 <br>
 
