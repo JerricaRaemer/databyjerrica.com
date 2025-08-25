@@ -4,7 +4,7 @@ title: Let's Talk Data
 permalink: /blog/
 ---
 
-> Data analytics is more than just numbers; it's about uncovering the stories hidden within data. In today's digital age, organizations and individuals alike are relying on data to drive decisions, optimize strategies, and predict future outcomes. From raw data to actionable insights, the power of analytics lies in its ability to transform complexity into clarity. Whether you're new to the field or a seasoned pro, this blog explores the tools, techniques, and trends that shape the ever-evolving world of data analytics.
+Data analytics is more than just numbers; it's about uncovering the stories hidden within data. In today's digital age, organizations and individuals alike are relying on data to drive decisions, optimize strategies, and predict future outcomes. From raw data to actionable insights, the power of analytics lies in its ability to transform complexity into clarity. Whether you're new to the field or a seasoned pro, this blog explores the tools, techniques, and trends that shape the ever-evolving world of data analytics.
 
 <div class="gallery-grid">
   <div class="gallery">
@@ -94,12 +94,13 @@ permalink: /blog/
 
 
 ### Contact Info
-> **Let's chat:** 425-829-0930
-> 
-> **View my projects:** [GitHub](https://github.com/JerricaRaemer)
-> 
-> **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
->
-> **Send me a project request:** jraemer@outlook.com
->
-> **See my professional history:** [Resume](https://jerricaraemer.github.io/)
+
+**Let's chat:** 425-829-0930
+ 
+**View my projects:** [GitHub](https://github.com/JerricaRaemer)
+ 
+**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
+
+**Send me a project request:** jraemer@outlook.com
+
+**See my professional history:** [Resume](https://jerricaraemer.github.io/)
