@@ -93,7 +93,7 @@ Data analytics is more than just numbers; it's about uncovering the stories hidd
 
 
 
-### Contact Info
+## Contact Info
 
 **Let's chat:** 425-829-0930
  
