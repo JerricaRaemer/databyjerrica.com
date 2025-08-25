@@ -4,39 +4,57 @@ title: Data Done Right
 permalink: /
 ---
 
-I'm a data analyst with a passion for turning messy, complicated data into strategies that actually work. Whether it's cleaning up raw datasets, identifying hidden trends, or building smarter workflows, I help organizations make confident, data-driven decisions.
+## Smarter Decisions, Faster
 
-I have a background in mathematics and hands-on experience across operations, bringing both technical expertise and industry context to every project. I’ve supported businesses by streamlining systems, improving accuracy, and uncovering the stories their data was already telling.
+As a data analyst, I help businesses cut costs, anticipate risks, and uncover opportunities that competitors miss. I automate processes so your team can focus on strategy instead of busywork, delivering accurate, compliant, and actionable insights.
 
-I aim to be a strategic thought partner, not just a data puller. I work to deeply understand the business problem, focus on what truly matters in the data, and deliver insights with clarity and purpose. Stakeholders can count on me to connect the dots, cut through the noise, and communicate findings without jargon or guesswork.
+I translate complex data into clear findings leaders can act on with confidence. The result? Better decisions, fewer compliance issues, and workflows that scale with your growth.
 
-<br>
+A data analyst is a decision accelerator. I turn your data into cost savings, compliance protection, and competitive advantage.
 
 [Get in Touch](contact.md)
 
-<br>
-
-## What I Do
-
-#### Data Cleaning & Preparation
-I transform your data from messy to ready for analysis.
-
-#### Analysis & Insights
-I help you ask the right questions and find clear answers.
-
-#### Workflow Optimization
-I build efficient, scalable processes using tools like SQL, Excel, Python, and Tableau.
-
-#### Decision Support
-I connect the data to your goals so the path forward is obvious, not overwhelming.
+![Data in Her hands](/assets/images/home_page.jpg){: .inline-hero }
 
 <br>
 
-## Why It Matters
+## What You Need
 
-You don’t need more data. You need the right tools and perspective to use it.
+**Clean, Reliable Data**
 
-I help teams unlock the value of the data they already have to solve problems, reduce friction, and grow.
+Clear, consistent data that reveals trends and uncovers opportunities, aiding you in making confident, impactful business decisions.
+
+**Clear Insights**
+
+Discover answers in your data that guide decisions, anticipate risks, and uncover opportunities your competitors miss.
+
+**Efficient Workflows**
+
+Scalable, automated processes that free your team from busy work, letting them focus on strategy and impact.
+
+**Confident Decisions**
+
+Connect the dots between your data and your goals so the path forward is clear, confident, and actionable.
+
+<br>
+
+## How I Help
+
+**Data Cleaning & Preparation**
+
+I transform messy, inconsistent data into accurate, analysis-ready information.
+
+**Analysis & Insights**
+
+I uncover trends, risks, and opportunities and translate them into actionable answers.
+
+**Workflow Optimization**
+
+I streamline processes with tools like SQL, Excel, Python, and Tableau so your team can focus on strategy.
+
+**Decision Support**
+
+I connect the data directly to your goals so leaders can act quickly and with confidence.
 
 <br>
 
