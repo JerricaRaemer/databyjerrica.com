@@ -9,6 +9,10 @@ body {
   background-size: cover;
 }
 
+page__title {
+  display: none;
+}
+
 .page__content, 
 .post {
   max-width: 800px;
