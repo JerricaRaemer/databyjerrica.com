@@ -4,7 +4,9 @@ title: Data Done Right
 permalink: /
 ---
 
-![Data in Her hands](/assets/images/home_page.jpg){: .inline-hero }
+<div class="hero-image">
+  <img src="/assets/images/home_page_2.jpg" alt="Data-driven decisions">
+</div>
 
 ## Smarter Decisions, Faster
 
@@ -23,6 +25,8 @@ Workflows grow with your business. Data drives cost savings, protection, and com
 [Let's Chat](contact.md)
 
 <br>
+
+![Data in Her hands](/assets/images/home_page.jpg){: .inline-hero }
 
 ## What You Need
 
