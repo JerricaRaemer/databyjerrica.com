@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Data Done Right
+header: false
 permalink: /
 ---
 
