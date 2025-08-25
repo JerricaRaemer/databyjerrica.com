@@ -85,3 +85,16 @@ body {
   border-radius: 8px; /* optional: soft edges */
   object-fit: cover;  /* crops without stretching if needed */
 }
+
+.hero-image {
+  width: 100vw;             /* span the full viewport width */
+  margin-left: calc(-50vw + 50%); /* pull it outside the text column */
+  overflow: hidden;         /* hide anything that spills over */
+}
+
+.hero-image img {
+  width: 100%;              /* make image stretch full width */
+  height: 200px;            /* adjust to the short height you want */
+  object-fit: cover;        /* crop gracefully instead of squishing */
+  display: block;
+}
