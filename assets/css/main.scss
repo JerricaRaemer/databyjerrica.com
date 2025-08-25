@@ -35,21 +35,6 @@ body {
   align-items: center;
 }
 
-/*
-.page__content .gallery,
-.post .gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
-  justify-items: center;
-  border: 2px solid hsl(200, 75%, 80%);
-  margin: 5px;
-  width: 350px;
-  height: 275px;
-  vertical-align: bottom;
-}
-*/
-
 .page__content .gallery .description,
 .post .gallery .description {
   padding: 5px;
@@ -89,4 +74,14 @@ body {
   font-weight: 300; /* makes it bolder */
   color: #333; /* darker color */
   text-align: center; /* ensures it stays centered */
+}
+
+.inline-hero {
+  width: 100%;        /* full-width of content column */
+  max-width: 600px;   /* optional: keeps it from being huge */
+  height: auto;
+  display: block;
+  margin: 1.5em auto; /* space above & below */
+  border-radius: 8px; /* optional: soft edges */
+  object-fit: cover;  /* crops without stretching if needed */
 }
