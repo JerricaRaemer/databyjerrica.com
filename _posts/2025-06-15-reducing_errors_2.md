@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Reducing Errors 2
 ---
 
