@@ -68,7 +68,7 @@ I specialize in benefits and compliance data, but my analytical process is trans
 
 ![Graphs](/assets/images/portfolio_page_1.jpg){: .inline-hero }
 
-## Boosting Participant Engagement
+## Boosting Participant Education
 
 **Problem:** High support volumes (1,300+ participant emails, 200+ calls/day)
 
@@ -77,6 +77,8 @@ I specialize in benefits and compliance data, but my analytical process is trans
 **Tools:** Excel (log analysis), content creation, process design
 
 **Outcome:** Reduced repeat inquiries, increased participant confidence, improved internal consistency, and decrease in lost participant funds at end of year.
+
+**Full Project Breakdown:** [Root Cause Analysis](_posts/2025-01-15-root_cause.md)
 
 <br>
 
