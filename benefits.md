@@ -8,17 +8,17 @@ permalink: /benefits/
 
 From raw benefits data to insights that empower employers and drive smarter business decisions.
 
+<br>
+
 ## The heart behind my work
 
-I’m passionate about benefits because it is the intersection of humanity and livelihood. Benefits administration requires a balance of detailed, technical work and knowledge with empathy and compassion for the lived human experience. My goal for every participant is to help them fully utilize their benefits package in a way that best supports their specific living situation. With each set of benefits, I aim to be flexible, thorough, and curious.
+I’m passionate about benefits because it is the intersection of humanity and livelihood. Benefits administration requires a balance of detailed, technical work and knowledge with empathy and compassion for the lived human experience. My goal for every participant is to help them fully utilize their benefits package in a way that best supports their specific living situation. I consistently aim to be flexible, thorough, and curious.
 
 <br>
 
-## My Benefits Philosophy in Practice
+## "Compliance Nerd"
 
 Compliance is non-negotiable. But compliance doesn’t mean complexity (at least not for the participant). I work to bridge the gap between intricate regulations (IRS, HIPAA, EBIA, and more) and clear, accessible benefit experiences. I strive to bring precision to the backend and clarity to the front end.
-
-I’ve worked hands-on with pretax plans including FSA (healthcare, dependent care), HRA, HSA, and commuter benefits. I understand how plan rules interact with real lives and how clean data, clear communication, and thoughtful workflows can make all the difference.
 
 <br>
 
