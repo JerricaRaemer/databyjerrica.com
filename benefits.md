@@ -4,9 +4,9 @@ title: Approach to Benefits Administration
 permalink: /benefits/
 ---
 
-# Expert in Benefits Compliance & Strategy
+# Pretax Benefits Expert
 
-Turning benefits data into insights that empower employers and drive smarter business decisions.
+From raw benefits data to insights that empower employers and drive smarter business decisions.
 
 ## The heart behind my work
 
