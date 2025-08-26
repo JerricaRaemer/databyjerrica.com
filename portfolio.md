@@ -8,14 +8,16 @@ permalink: /portfolio/
   <img src="/assets/images/portfolio_top_page.jpg" alt="Data-driven decisions">
 </div>
 
+<br>
+
 # Results That Matter
 
 Each project highlights how I combine technical tools with industry expertise to solve business-critical problems.
 
 I specialize in benefits and compliance data, but my analytical process is transferable to a wide range of organizational challenges.
- 
-![Hands on a Keyboard](/assets/images/portfolio_page_2.jpg){: .inline-hero }
 
+<br>
+ 
 ## Employee Tenure Case Type Analysis
 
 **Tools:** SQL, Excel
@@ -38,7 +40,7 @@ I specialize in benefits and compliance data, but my analytical process is trans
 
 **Full Project:** [Employee Data](https://github.com/JerricaRaemer/employee_data_sql)
 
-<br>
+![Hands on a Keyboard](/assets/images/portfolio_page_2.jpg){: .inline-hero }
 
 ## Tumor Volume Analysis
 
@@ -52,7 +54,7 @@ I specialize in benefits and compliance data, but my analytical process is trans
 
 **Full Project:** [Lab Stats](https://github.com/JerricaRaemer/lab_stats_python)
 
-![Graphs](/assets/images/portfolio_page_1.jpg){: .inline-hero }
+<br>
 
 ## Minimizing Strain on Systems
 
@@ -64,7 +66,7 @@ I specialize in benefits and compliance data, but my analytical process is trans
 
 **Outcome:** Prevented system crashes and reduced manual load time, protecting enrollment timelines
 
-<br>
+![Graphs](/assets/images/portfolio_page_1.jpg){: .inline-hero }
 
 ## Boosting Participant Engagement
 
