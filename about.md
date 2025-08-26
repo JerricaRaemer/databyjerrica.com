@@ -8,6 +8,8 @@ permalink: /about/
   <img src="/assets/images/about_top_page.jpg" alt="Nerding Out">
 </div>
 
+<br>
+
 # My Story
 
 I’m a lifelong math nerd with a passion for making data understood, actionable, and human-centered.
