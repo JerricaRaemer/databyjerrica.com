@@ -50,8 +50,6 @@ Connect the dots between your data and your goals so the path forward is clear, 
 
 <br>
 
-![Data presented](/assets/images/home_page_3.jpg){: .inline-hero }
-
 ## How I Help
 
 **Data Cleaning & Preparation**
