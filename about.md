@@ -4,6 +4,8 @@ title: My Story
 permalink: /about/
 ---
 
+# My Story
+
 I got into data because I’ve always been passionate about math, science, and the logic behind how things work.
 
 I have a Bachelor’s degree in Mathematics and a deep background in advanced math disciplines. I discovered early on that data is just numbers until you ask the right questions. I love turning raw data into meaningful insights that help organizations make smarter, faster, and more strategic decisions.
