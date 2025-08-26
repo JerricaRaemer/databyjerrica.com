@@ -4,6 +4,12 @@ title: Let's Talk Data
 permalink: /blog/
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/blog_top_page.JPG" alt="Data-driven decisions">
+</div>
+
+<br>
+
 # Let's Talk Data
 
 Data analytics is more than just numbers; it's about uncovering the stories hidden within data. In today's digital age, organizations and individuals alike are relying on data to drive decisions, optimize strategies, and predict future outcomes. From raw data to actionable insights, the power of analytics lies in its ability to transform complexity into clarity. Whether you're new to the field or a seasoned pro, this blog explores the tools, techniques, and trends that shape the ever-evolving world of data analytics.
