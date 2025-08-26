@@ -9,6 +9,23 @@ body {
   background-size: cover;
 }
 
+body .masthead {
+  border-bottom: none;
+}
+
+#site-nav {
+    background: transparent;
+}
+
+#site-nav .site-title {
+  font-size: 26px;
+}
+
+body .greedy-nav a {
+  color: #383c3f;
+}
+  
+
 .page__title {
   display: none;
 }
