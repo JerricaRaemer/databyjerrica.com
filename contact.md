@@ -4,13 +4,17 @@ title: Let’s Connect
 permalink: /contact/
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/contact_top_page.jpg" alt="Next Steps">
+</div>
+
+<br>
+
 # Let's Connect
 
 Whether you're navigating complex benefits data, looking for a fresh perspective on participant engagement, or just want to talk about data analysis, I'd love to hear from you.
 
 I'm always open to new collaborations, contract work, or permanent opportunities where I can bring both technical skill and industry insight to the table.
-
-<br>
 
 ## Contact
 
@@ -24,17 +28,14 @@ I'm always open to new collaborations, contract work, or permanent opportunities
 
 **View my professional history:** [Resume](https://jerricaraemer.github.io/)
 
-
 #### I typically respond within 1-2 business days.
 
-<br>
+![Handshake](/assets/images/contact_page_1.jpg){: .inline-hero }
 
 ## What to Expect
 
-If you reach out, you’re not getting a form letter. I believe in thoughtful, human-centered communication—and that starts here. Whether you have a quick question or a complex challenge, I’ll respond with care, curiosity, and a solutions-focused mindset.
+Every message is treated with care. I respond with clarity, curiosity, and a focus on solutions.
  
-<br>
-
 ## Not Sure Where to Start?
 
 Here are a few things you might want to chat about:
@@ -48,8 +49,6 @@ Here are a few things you might want to chat about:
 * Custom analytics or data visualization
  
 * Anything else you can think of
-
-<br>
 
 #### I want to hear from you!
 
