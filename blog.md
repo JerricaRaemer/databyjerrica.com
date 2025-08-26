@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 <div class="hero-image">
-  <img src="/assets/images/blog_top_page.JPG" alt="Data-driven decisions">
+  <img src="/assets/images/blog_top_page.jpg" alt="Data-driven decisions">
 </div>
 
 <br>
