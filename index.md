@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div class="hero-image">
-  <img src="/assets/images/home_page_2.jpg" alt="Data-driven decisions">
+  <img src="/assets/images/top_page_4.jpg" alt="Data-driven decisions">
 </div>
 
 ## Smarter Decisions, Faster
@@ -49,6 +49,8 @@ Scalable, automated processes that free your team from busy work, letting them f
 Connect the dots between your data and your goals so the path forward is clear, confident, and actionable.
 
 <br>
+
+![Data presented](/assets/images/home_page_3.jpg){: .inline-hero }
 
 ## How I Help
 
