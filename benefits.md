@@ -4,7 +4,7 @@ title: Approach to Benefits Administration
 permalink: /benefits/
 ---
 
-### The heart behind my work
+# The heart behind my work
 
 I’m passionate about benefits because it is the intersection of humanity and livelihood. Benefits administration requires a balance of detailed, technical work and knowledge with empathy and compassion for the lived human experience. If I can help one person in my day navigate the complex world of benefits, I’m doing my job correctly. My goal for every participant is to help them fully utilize their benefits package in a way that best supports their specific living situation. This isn’t new territory for me; I understand what’s ahead and I’m prepared. I worked in pretax benefits administration for 6 years across two companies, each with their own interpretation of regulations and compliance. This experience taught me to be flexible, thorough, and curious.
 
