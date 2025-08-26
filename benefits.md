@@ -4,23 +4,25 @@ title: Approach to Benefits Administration
 permalink: /benefits/
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/benefits_top_page.jpg" alt="Industry Expertise">
+</div>
+
+<br>
+
 # Pretax Benefits Expert
 
 From raw benefits data to insights that empower employers and drive smarter business decisions.
-
-<br>
 
 ## The heart behind my work
 
 I’m passionate about benefits because it is the intersection of humanity and livelihood. Benefits administration requires a balance of detailed, technical work and knowledge with empathy and compassion for the lived human experience. My goal for every participant is to help them fully utilize their benefits package in a way that best supports their specific living situation. I consistently aim to be flexible, thorough, and curious.
 
-<br>
-
 ## "Compliance Nerd"
 
 Compliance is non-negotiable. But compliance doesn’t mean complexity (at least not for the participant). I work to bridge the gap between intricate regulations (IRS, HIPAA, EBIA, and more) and clear, accessible benefit experiences. I strive to bring precision to the backend and clarity to the front end.
 
-<br>
+![HR Trend Analysis](/assets/images/benefits_page_2.jpg){: .inline-hero }
 
 ## Areas of Expertise in Pretax Benefits
 
@@ -74,7 +76,7 @@ In-depth knowledge of the following regulatory resources:
 
 * Translation of complex terms into accessible language
 
-<br>
+![Employee Benefits](/assets/images/benefits_page_1.jpg){: .inline-hero }
 
 ## Real Results from My Work
 
