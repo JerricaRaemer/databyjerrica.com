@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div class="hero-image">
-  <img src="/assets/images/top_page_4.jpg" alt="Data-driven decisions">
+  <img src="/assets/images/top_page_4.JPG" alt="Data-driven decisions">
 </div>
 
 ## Smarter Decisions, Faster
