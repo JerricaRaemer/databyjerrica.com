@@ -4,6 +4,10 @@ title: My Story
 permalink: /about/
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/about_top_page.jpg" alt="Nerding Out">
+</div>
+
 # My Story
 
 I’m a lifelong math nerd with a passion for making data understood, actionable, and human-centered.
@@ -16,15 +20,13 @@ I’ve loved math since I was seven, sometimes more than sleep. That curiosity a
 
 Today, I focus on using data the way it’s meant to be used: as a tool for clarity, not confusion.
 
-View my full resume [here](https://jerricaraemer.github.io/)
-
-<br>
-
 ## Human Impact
 
 Early in my pretax benefits career, I realized that behind every enrollment form or payroll dataset, real lives are affected. That’s why my work prioritizes clarity, accuracy, and empathy.
 
-<br>
+View my full resume [here](https://jerricaraemer.github.io/)
+
+![Data Manipulation](/assets/images/about_page.jpg){: .inline-hero }
 
 ## What Sets Me Apart
 
