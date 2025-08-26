@@ -12,6 +12,8 @@ My work focuses on using data the way it’s meant to be used: as a tool for cla
 
 When data becomes action, that’s when it becomes valuable. That’s where I come in.
 
+View my full resume [here](https://jerricaraemer.github.io/)
+
 <br>
 
 ## What Sets Me Apart:
