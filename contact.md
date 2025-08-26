@@ -12,23 +12,23 @@ permalink: /contact/
 
 # Let's Connect
 
-Whether you're navigating complex benefits data, looking for a fresh perspective on participant engagement, or just want to talk about data analysis, I'd love to hear from you.
-
 I'm always open to new collaborations, contract work, or permanent opportunities where I can bring both technical skill and industry insight to the table.
 
 ## Contact
 
-**Let's chat:** 425-829-0930
+**Chat:** 425-829-0930
  
-**View my projects:** [GitHub](https://github.com/JerricaRaemer)
+**View Projects:** [GitHub](https://github.com/JerricaRaemer)
  
-**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
+**Let's Connect:** [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
 
-**Send me a project request:** jraemer@outlook.com
+**Inquiries:** jraemer@outlook.com
 
-**View my professional history:** [Resume](https://jerricaraemer.github.io/)
+**Professional History:** [Resume](https://jerricaraemer.github.io/)
 
 #### I typically respond within 1-2 business days.
+
+<br>
 
 ![Handshake](/assets/images/contact_page_1.jpg){: .inline-hero }
 
@@ -50,6 +50,6 @@ Here are a few things you might want to chat about:
  
 * Anything else you can think of
 
-#### I want to hear from you!
+#### Start the conversation today!
 
 
