@@ -23,7 +23,7 @@ A skilled analyst is a translator between the raw data and the decision-makers w
 
 * Making sure the data supports a business objective, not just exists in a vacuum.
 
-![Data Presentation](../assets/images/Good_Data_Analysts-Data_Flow.JPG)
+![Data Presentation](../assets/images/Good_Data_Analysts-Data_Flow.JPG){: .inline-hero }
 
 <br>
 
@@ -50,7 +50,7 @@ Analysts aren’t just expected to analyze. They’re expected to communicate. T
 
 * Framing the analysis around the business question, not the dataset.
 
-![Data Presentation](../assets/images/Good_Data_Analysts-Messy_to_Clear_Charts.JPG)
+![Data Presentation](../assets/images/Good_Data_Analysts-Messy_to_Clear_Charts.JPG){: .inline-hero }
 
 <br>
 
