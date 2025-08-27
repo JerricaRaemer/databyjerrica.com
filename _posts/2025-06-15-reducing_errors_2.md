@@ -97,4 +97,4 @@ Participant errors aren't just a nuisance; they’re a signal. By treating them 
 
 <br>
 
-#### To have your files audited and organized, or to develop compliance education tools, contact me [here](contact.md)
+#### To have your files audited and organized, or to develop compliance education tools, contact me [here]({{ '/contact/' | relative_url }})
