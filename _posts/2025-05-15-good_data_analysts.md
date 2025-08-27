@@ -23,7 +23,7 @@ A skilled analyst is a translator between the raw data and the decision-makers w
 
 * Making sure the data supports a business objective, not just exists in a vacuum.
 
-![Data Presentation](../assets/images/Good_Data_Analysts-Data_Flow.JPG){: .inline-hero }
+![Data Presentation]({{ '/assets/images/Good_Data_Analysts-Data_Flow.JPG' | relative_url }}){: .inline-hero }
 
 <br>
 
