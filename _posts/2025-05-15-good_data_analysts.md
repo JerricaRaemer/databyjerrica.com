@@ -50,7 +50,7 @@ Analysts aren’t just expected to analyze. They’re expected to communicate. T
 
 * Framing the analysis around the business question, not the dataset.
 
-![Data Presentation](../assets/images/Good_Data_Analysts-Messy_to_Clear_Charts.JPG){: .inline-hero }
+![Data Presentation]({{ '/assets/images/Good_Data_Analysts-Messy_to_Clear_Charts.JPG' | relative_url }}){: .inline-hero }
 
 <br>
 
