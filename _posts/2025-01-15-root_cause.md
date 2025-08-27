@@ -105,5 +105,5 @@ That’s good for participants, good for business—and very good for compliance
 
 <br>
 
-#### To identify root causes in your business problems, contact me now.
+#### To identify root causes in your business problems, [contact me](contact.md) now.
 
