@@ -82,4 +82,4 @@ Preventing compliance gaps isn’t about red tape. It’s about protecting your 
 
 <br>
 
-To identify areas your company could be improving, [Contact Me](contact.md) for a consultation.
+To identify areas your company could be improving, [contact me]({{ '/contact/' | relative_url }}) for a consultation.
