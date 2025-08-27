@@ -65,7 +65,7 @@ We visualized this in Python using bar and pie charts to show:
 
 This bar chart highlighted the most frequent misunderstandings, which helped prioritize our education efforts.
 
-#### INSERT IMAGE HERE (already made)
+![Data Presentation]({{ '/assets/images/Reducing_Errors_2-CS_Barchart.JPG' | relative_url }}){: .inline-hero }
 
 # The Solution: Data-Driven Education
 
