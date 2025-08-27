@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reducing Errors 2
+title: Data-Driven Fixes
 ---
 
 # Reducing Preventable Participant Errors with Data
