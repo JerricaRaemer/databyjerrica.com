@@ -85,7 +85,7 @@ The result? A targeted solution, not just a vague observation.
 
 Here’s an example of a simple, story-driven chart you might find in a benefits analysis:
 
-#### Insert chart here!
+![Data Presentation]({{ '/assets/images/Story_Telling_2-Visualizing.JPG' | relative_url }}){: .inline-hero }
 
 Even without words, this chart suggests a story. With the right narrative, it becomes a call to action.
 
