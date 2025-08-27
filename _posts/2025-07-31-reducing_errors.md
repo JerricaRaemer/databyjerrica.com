@@ -13,7 +13,7 @@ When it comes to benefits, participants often make avoidable mistakes—not beca
 
 In a recent internal review, I analyzed hundreds of participant support logs and case escalations. The goal? To identify the most frequent mistakes that caused claim denials, lost funds, and frustration for both the participant and support teams.
 
-<br>
+![Data Presentation]({{ '/assets/images/Reducing_Errors-PPT_Barchart.JPG' | relative_url }}){: .inline-hero }
 
 ## Here’s what the data revealed:
 
