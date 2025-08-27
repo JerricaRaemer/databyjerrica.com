@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Story Telling 2
+title: Data Narratives
 ---
 
 # Turning Numbers into Narratives: The Art of Data Storytelling
