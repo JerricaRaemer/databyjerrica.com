@@ -7,8 +7,6 @@ title: Good Data Analysts
 
 Data storytelling, business impact, and what separates analysis from true insight.
 
-<br>
-
 ## Introduction: It’s Not Just About the Data
 
 When people think of data analysts, they often picture someone buried in spreadsheets or SQL queries, cranking out reports. But great analysis isn’t just about extracting numbers; it’s about understanding the business context, identifying what matters, and turning data into actionable insights.
