@@ -76,6 +76,6 @@ Your technical tools matter—Python, SQL, Tableau—but your value lies in clar
 *“Good data is accurate. Great data is understood.”*
 
 
-#### To learn more about the story you're data is telling, [contact me](contact.md) now.
+#### To learn more about the story you're data is telling, [contact me]({{ '/contact/' | relative_url }}) now.
 
 
