@@ -64,5 +64,5 @@ Often, the loudest problems in benefits aren’t technical—they’re human. Bu
 
 <br>
 
-#### Ready to take your benefits administration to the next level? [Let's Chat](contact.md)
+#### Ready to take your benefits administration to the next level? [Let's chat]({{ '/contact/' | relative_url }})
 
