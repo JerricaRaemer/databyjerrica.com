@@ -99,5 +99,5 @@ Whether I’m analyzing participant behavior or uncovering business inefficienci
 
 <br>
 
-#### To see the story your data is telling, contact me [here](contact.md)
+#### To see the story your data is telling, contact me [here]({{ '/contact/' | relative_url }})
 
