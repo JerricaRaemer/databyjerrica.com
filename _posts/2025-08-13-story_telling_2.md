@@ -9,15 +9,13 @@ title: Data Narratives
  
 Data doesn’t speak for itself. It sits silently in spreadsheets and databases until someone makes sense of it. That’s where data storytelling comes in.
 
-As a data analyst, my role goes far beyond charts and queries—I’m here to translate insights into action.
+As a data analyst, my role goes far beyond charts and queries. I’m here to translate insights into action.
 
 ## What Is Data Storytelling?
 
 At its core, data storytelling is the ability to combine data, visuals, and narrative to communicate a compelling, actionable insight. It’s how analysts turn:
 
-“Here’s what the data says”
-
-Into
+“Here’s what the data says” into,
 
 “Here’s what it means, and here’s what we should do next.”
 
@@ -33,7 +31,7 @@ Too often, stakeholders are presented with reports that are:
  
 Even the most brilliant analysis will fall flat if it doesn’t connect with the audience.
 
-That’s why storytelling isn’t fluff—it’s a strategic skill.
+That’s why storytelling is more strategic skill than just fluff.
 
 ## The Three Pillars of Data Storytelling
 
@@ -67,13 +65,13 @@ Let’s say I’m working with a client whose open enrollment participation drop
  
 * Visual: Use a line chart to show declining trends over 3 years
  
-* Narrative: “Participation in commuter benefits dropped 22% after the pandemic—but remote workers are still eligible. We may need to clarify this in onboarding materials.”
+* Narrative: “Participation in commuter benefits dropped 22% after the pandemic, but remote workers are still eligible. We may need to clarify this in onboarding materials.”
  
 The result? A targeted solution, not just a vague observation.
 
 ## Common Pitfalls to Avoid
 
-* Data overload – You don’t need every chart. Focus on what matters.
+* Data overload – You don’t need every single chart. Focus on what matters.
  
 * Assuming knowledge – Always explain acronyms and context.
  
@@ -89,13 +87,13 @@ Here’s an example of a simple, story-driven chart you might find in a benefits
 
 Even without words, this chart suggests a story. With the right narrative, it becomes a call to action.
 
-## Final Thought: Numbers Don’t Change Minds—Stories Do
+## Final Thought: Stories Change Minds
 
 Data analysis is powerful. But data storytelling is what makes it understandable, persuasive, and memorable.
 
 Whether I’m analyzing participant behavior or uncovering business inefficiencies, I always ask myself:
 
-*“How can I turn this data into an **accurate and impactful** story?”*
+*“How can I turn this data into an **accurate** and **impactful** story?”*
 
 <br>
 
