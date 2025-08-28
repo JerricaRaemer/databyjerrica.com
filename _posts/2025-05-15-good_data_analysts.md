@@ -75,4 +75,4 @@ Businesses don’t need someone to pull data. They need someone who can help **s
 <br>
 
 ### Want help turning your company’s data into smart decisions?
-[contact me]({{ '/contact/' | relative_url }}) to discuss how I can support your goals with actionable, people-focused analysis.
+[Contact me]({{ '/contact/' | relative_url }}) to discuss how I can support your goals with actionable, people-focused analysis.
