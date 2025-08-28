@@ -7,9 +7,9 @@ title: Data-Driven Fixes
 
 *How behavioral analysis helped improve benefits education and reduce costly mistakes*
 
-Benefits plans are only as effective as the participants’ ability to use them. When participants don’t understand their plans, it doesn’t just impact them—it creates a ripple effect of support tickets, lost funds, and missed compliance opportunities.
+Benefits plans are only as effective as the participants’ ability to use them. When participants don’t understand their plans, it doesn’t just impact them; it creates a ripple effect of support tickets, lost funds, and missed compliance opportunities.
 
-In this post, I’ll walk through how I used data to uncover trends in participant confusion—and transformed those insights into an education strategy that saved time, money, and frustration.
+In this post, I’ll walk through how I used data to uncover trends in participant confusion and transformed those insights into an education strategy that saved time, money, and frustration.
 
 ## The Problem: Repeat Escalations, Denied Claims, and Forfeitures
 
