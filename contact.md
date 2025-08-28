@@ -16,7 +16,7 @@ I'm always open to new collaborations, contract work, or permanent opportunities
 
 ## Contact
 
-**Chat:** 425-829-0930
+**Chat:** 541-632-3506
  
 **View Projects:** [GitHub](https://github.com/JerricaRaemer)
  
