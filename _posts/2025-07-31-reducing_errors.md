@@ -5,9 +5,7 @@ title: Reducing Errors
 
 # Reducing Participant Errors in Benefits Administration
 
-When it comes to benefits, participants often make avoidable mistakes—not because they don’t care, but because the systems in place often confuse more than they clarify. By analyzing common errors, benefits teams can take proactive steps to simplify experiences, reduce confusion, and ultimately improve plan utilization.
-
-<br>
+When it comes to benefits, participants often make avoidable mistakes. This isn't because they don’t care, but because the complex systems guiding these plans often confuse more than they clarify. By analyzing common errors, benefits teams can take proactive steps to simplify experiences, reduce confusion, and ultimately improve plan utilization.
 
 ## The Problem: Misunderstandings That Lead to Escalations
 
@@ -25,8 +23,6 @@ As shown, the most frequent errors included:
  
 * Submissions for ineligible expenses, particularly in flexible spending accounts (FSAs)
 
-<br>
-
 ## The Approach: Education-First, Data-Supported
 
 I partnered with the Customer Service and Education teams to develop targeted educational materials, including:
@@ -39,15 +35,9 @@ I partnered with the Customer Service and Education teams to develop targeted ed
  
 * A proposal to host regular internal training meetings based on trending support issues
 
-<br>
-
 ## The Results: Better Outcomes for Everyone
 
 These interventions reduced escalations and repeated participant inquiries, while boosting confidence and participation in benefit programs.
-
-#### IMAGE HERE?
-
-<br>
 
 ## Key outcomes:
 
@@ -57,10 +47,8 @@ These interventions reduced escalations and repeated participant inquiries, whil
  
 * Higher participant satisfaction and confidence in using their benefits
 
-<br>
-
 ## Takeaway: The Value of Listening to the Data
-Often, the loudest problems in benefits aren’t technical—they’re human. But technical tools like data analysis help us understand those problems clearly and build scalable, human-centered solutions.
+Often, the loudest problems in benefits aren’t technical; they’re human. But technical tools using data analysis help us understand those problems clearly and build scalable, human-centered solutions.
 
 <br>
 
