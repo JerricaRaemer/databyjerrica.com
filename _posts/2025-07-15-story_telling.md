@@ -7,7 +7,7 @@ title: Story Telling
 
 *Why data storytelling matters more than charts alone*
  
-Data is powerful—but only when it’s understood. In a world full of dashboards and KPIs, it’s easy to forget that analytics is as much about communication as it is about computation. That’s where data storytelling comes in.
+Data is incredibly powerful, but only when it’s understood. In a world full of dashboards and spreadsheets, it’s easy to forget that analytics is as much about communication as it is about computation. That’s where data storytelling comes in.
 
 This post explores what it means to go beyond the dashboard and deliver insights that drive action.
 
@@ -35,7 +35,7 @@ A good analyst doesn’t stop at data presentation—they bring clarity to the q
  
 * What will happen if we don’t act?
  
-This means pairing analytics skills with business fluency, storytelling structure, and visual empathy—understanding how your audience takes in information.
+This means pairing analytics, business fluency, and competency in presenting information.
 
 ## Case Example: Participant Support Trends
 
@@ -63,18 +63,13 @@ Rather than showing a pie chart and calling it a day, a strong data story might 
 
 **Recommendation:** Refine eligibility communication using plain language and infographics. Run post-enrollment surveys to measure clarity.
 
-## Visual Example
-
-Here’s a mockup of how this insight could be visualized clearly and actionably:
-
-Notice how one insight is brought to the front. It’s not buried in charts—it’s presented in a way that answers the “So what?” for the business.
-
 ## Final Thought: Analysts Are Storytellers
 
-Your technical tools matter—Python, SQL, Tableau—but your value lies in clarity. The best data stories don’t just report. They persuade. They guide. They lead to better decisions.
+Technical tools like Python, SQL, and Tableau are important, but value lies in clarity. The best data stories persuade, guide, and lead to better business decisions.
 
 *“Good data is accurate. Great data is understood.”*
 
+<br>
 
 #### To learn more about the story you're data is telling, [contact me]({{ '/contact/' | relative_url }}) now.
 
