@@ -7,7 +7,7 @@ title: Root Cause
 
 How participant education improved service outcomes and saved time
 
-High-volume support issues are often treated like a cost of doing business—but what if you could prevent the most common questions before they ever arise?
+High-volume support issues are often treated like a cost of doing business. But what if you could prevent the most common questions before they ever arise?
 
 In this post, I’ll walk through how analyzing participant support data led to meaningful improvements in communication, participant confidence, and team efficiency.
 
@@ -71,7 +71,7 @@ Armed with data, I pitched a proactive education strategy to senior leadership. 
  
 * Resource Development: Clear, friendly templates for common participant questions.
  
-* Participant Campaigns: Pre-OE emails and portal messages with visuals and plain-language tips, targeting the most misunderstood plan rules.
+* Participant Campaigns: Pre- open enrollment emails and portal messages with visuals and plain-language tips, targeting the most misunderstood plan rules.
  
 I also implemented ongoing ticket analysis to keep refining our messaging as participant behavior evolved.
 
@@ -89,19 +89,16 @@ Improved Participant Confidence
  
 Better Internal Support
 
-* *Fewer escalations meant more time for complex cases—and less burnout for the team.*
-
-#### Data Visual (Mockup)
-
-#### Here’s a sample visualization showing the drop in common support topics after targeted communication updates:
+* *Fewer escalations meant more time for complex cases.*
+* *Less burnout for internal teams.*
 
 ## Final Thought: Education Is a Compliance Strategy
 
-Clear communication isn’t fluff—it’s a risk mitigation tool. Preventable confusion wastes time, increases liability, and erodes trust.
+Clear communication is a risk mitigation tool. Preventable confusion wastes time, increases liability, and erodes trust.
 
 By using data to guide support content, we didn’t just reduce volume. We helped people use their benefits better.
 
-That’s good for participants, good for business—and very good for compliance.
+That’s good for participants, business, and compliance.
 
 <br>
 
