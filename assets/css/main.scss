@@ -120,3 +120,9 @@ body .greedy-nav a {
   object-fit: cover;        /* crop gracefully instead of squishing */
   display: block;
 }
+
+@media (max-width: 600px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+}
