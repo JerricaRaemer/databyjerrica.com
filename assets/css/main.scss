@@ -128,6 +128,7 @@ body .greedy-nav a {
 }
 
 .footer {
+  background-color: #f8f8f8;
   text-align: center;
   font-size: 0.9em;
   color: #555;
@@ -142,6 +143,8 @@ body .greedy-nav a {
 }
 
 .footer-links {
+  text-align: left;
+  display: inline-block;
   list-style: none;
   padding: 0;
   margin: 15px 0;
