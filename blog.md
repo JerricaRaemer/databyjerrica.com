@@ -98,17 +98,3 @@ Data analytics is more than just numbers; it's about uncovering the stories hidd
 
 </div>
 
-
-
-
-## Contact Info
-
-**Let's chat:** 425-829-0930
- 
-**View my projects:** [GitHub](https://github.com/JerricaRaemer)
- 
-**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
-
-**Send me a project request:** jraemer@outlook.com
-
-**See my professional history:** [Resume](https://jerricaraemer.github.io/)
