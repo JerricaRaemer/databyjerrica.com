@@ -31,4 +31,8 @@ The full paper is available here: [Data Ethics and Visualizations (PDF)]({{ site
 
 ## Conclusion
 
-Together, these studies reflect my commitment to accuracy, compliance, and ethical stewardship of data. They also inform my approach to real-world benefits administration, where clear processes, thoughtful reporting, and careful data handling are essential. I hope these resources are useful to professionals seeking practical insights into compliance and ethical data practices.
+Together, these studies reflect commitment to accuracy, compliance, and ethical stewardship of data. They also inform a thoughtful approach to real-world benefits administration, where clear processes and careful data handling are essential.
+
+I hope these resources are useful to professionals seeking practical insights into compliance and ethical data practices.
+
+#### Ready to take your business to the next level? [Let's Connect](contact.md)
