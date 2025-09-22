@@ -35,4 +35,4 @@ Together, these studies reflect commitment to accuracy, compliance, and ethical 
 
 I hope these resources are useful to professionals seeking practical insights into compliance and ethical data practices.
 
-#### Ready to take your business to the next level? [Let's Connect](contact.md)
+#### Ready to explore compliance and ethical data processing for your business? [Let's Connect]({{ '/contact/' | relative_url }})
