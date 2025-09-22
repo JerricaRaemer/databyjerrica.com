@@ -17,7 +17,7 @@ My research examines strategies to maintain compliance while streamlining admini
 
 From auditing participant data to implementing automated tracking systems, the study highlights methods that reduce errors, save time, and protect employee privacy.
 
-You can read the full paper here: [Data Compliance in Pretax Benefits Administration (PDF)](../assets/pdfs/data_compliance.pdf).
+You can read the full paper here: [Data Compliance in Pretax Benefits Administration (PDF)](assets/pdfs/data_compliance.pdf).
 
 ## Data Ethics and Visualizations
 
@@ -27,7 +27,7 @@ This paper explores ethical considerations in data visualization, including avoi
 
 Ethical visualizations not only support better decision-making but also build trust with employees, leadership, and stakeholders.
 
-The full paper is available here: [Data Ethics and Visualizations (PDF)](../assets/pdfs/data_ethics.pdf).
+The full paper is available here: [Data Ethics and Visualizations (PDF)](assets/pdfs/data_ethics.pdf).
 
 ## Conclusion
 
