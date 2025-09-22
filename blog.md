@@ -96,5 +96,14 @@ Data analytics is more than just numbers; it's about uncovering the stories hidd
     </figure>
   </div>
 
+  <div class="gallery">
+    <figure>
+      <a href="{% post_url 2025-09-15-data_ethics %}">
+        <img src="{{ 'assets/images/data_ethics.jpg' | relative_url }}" alt="Data Compliance and Ethics in Benefits Administration" />
+      </a>
+      <figcaption>Data Ethics & Compliance</figcaption>
+    </figure>
+  </div>
+
 </div>
 
