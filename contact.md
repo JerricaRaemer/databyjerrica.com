@@ -24,8 +24,6 @@ I'm always open to new collaborations, contract work, or permanent opportunities
 
 **Inquiries:** jraemer@outlook.com
 
-**Professional History:** [Resume](https://jerricaraemer.github.io/)
-
 #### I typically respond within 1-2 business days.
 
 <br>
